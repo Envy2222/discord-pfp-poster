@@ -4,7 +4,7 @@ import random
 import time 
 import sys
 link = input("Enter webhook url : ")
-title = input('TItle for Image sending : ')
+title = input('Title for Image sending : ')
 print("[+] Trying to send pfps | Made By Phantom.#7777")
 
 def randnum(fname):
